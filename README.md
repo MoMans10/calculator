@@ -1,2 +1,2 @@
 # calculator
-the first project with javascript
+my first project with javascript
